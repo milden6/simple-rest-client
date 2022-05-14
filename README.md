@@ -1,6 +1,6 @@
 # About
 
-My pet project
+Just a pet project
 
 # ToDo
-- [ ] Implement GET Method
+- [ ] Implement GET, POST, DELETE Methods
